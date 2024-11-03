@@ -1,4 +1,4 @@
-## Olá, eu me chamo Lucas Mateus, estudante de programação! 👋🏻
+## Olá, eu me chamo Lucas Mateus, sou estudante de programação! 👋🏻
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
