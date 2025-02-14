@@ -65,8 +65,8 @@ Me chamo Lucas Mateus, tenho 20 anos e sou natural do Recife. Concluí o ensino 
 />
 
 
-<br/>
-<br/>
+<br>
+
 
 ### 📊 Estatísticas
 
