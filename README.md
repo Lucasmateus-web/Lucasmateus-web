@@ -82,8 +82,7 @@ Sou natural de Recife (PE), tenho 20 anos e sou formado em Eletrotécnica pelo E
 ---
 
 ## 🌐 Contato
-
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucas-mateus-b8abaa30b/))  
+ 
 - 💻 [GitHub](https://github.com/Lucasmateus-web)  
 - 📧 Email: lucasmateus.dasilva@outlook.com
 
