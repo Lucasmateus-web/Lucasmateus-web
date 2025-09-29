@@ -1,138 +1,54 @@
 <!-- Banner animado -->
-![banner](https://i.imgur.com/qR9cOD0.gif)
-
-# 👨‍💻 Lucas Mateus  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia+💻;Sempre+em+Evolução+🚀" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 </p>
+
+<!-- Título estiloso -->
+<h2 align="center">🔥 Bem-vindo ao meu GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h2>
 
 ---
 
-## 📌 Sobre mim  
-- 📍 Recife - PE  
-- 🎂 21 anos  
-- 🎓 Formado em **Eletrotécnica**  
-- 🎓 Cursando **Engenharia de Software** na Wyden (UNIFBV)  
-- 💡 Apaixonado por criar soluções criativas  
-- 🌐 Compartilho aprendizados no **GitHub** e no **LinkedIn**  
-
-<p align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-mateus-b8abaa30b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 🚀 Sobre mim  
+💻 Estudante de **Engenharia de Software**  
+🎯 Focado em **Front-end e Back-end**  
+⚡ Apaixonado por **tecnologia, inovação e resolver problemas com código**  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🛠️ Skills com Progresso  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,python,mysql,powerbi&theme=dark" />
-</p>
-
----
-
-## 📈 Skills com Progresso  
-
-| Tecnologia   | Nível |
-|--------------|-------|
-| HTML         | ![HTML](https://progress-bar.dev/90/?title=Avançado&width=300&color=E34F26) |
-| CSS          | ![CSS](https://progress-bar.dev/85/?title=Avançado&width=300&color=1572B6) |
-| JavaScript   | ![JS](https://progress-bar.dev/75/?title=Intermediário&width=300&color=F7E018) |
-| React        | ![React](https://progress-bar.dev/70/?title=Intermediário&width=300&color=61DAFB) |
-| TailwindCSS  | ![Tailwind](https://progress-bar.dev/65/?title=Intermediário&width=300&color=06B6D4) |
-| Python       | ![Python](https://progress-bar.dev/60/?title=Intermediário&width=300&color=3776AB) |
-| SQL          | ![SQL](https://progress-bar.dev/55/?title=Básico&width=300&color=FF4500) |
-| Power BI     | ![PowerBI](https://progress-bar.dev/50/?title=Básico&width=300&color=F2C811) |
+| Tecnologia  | Ícone |
+|-------------|-------|
+| **HTML**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> |
+| **CSS**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> |
+| **React**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> |
+| **TailwindCSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> |
+| **Python**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> |
+| **SQL**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |
+| **Power BI** | <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/> |
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" height="160"/>
 </p>
 
+---
+
+## ⚡ Minhas metas  
+✔️ Evoluir cada vez mais no desenvolvimento web  
+✔️ Contribuir com projetos open-source  
+✔️ Criar soluções que impactem positivamente a vida das pessoas  
+
+---
+
+<!-- Rodapé -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
 </p>
 
----
-
-## 🎯 Objetivos  
-✔️ Crescer como **Desenvolvedor Front-end**  
-✔️ Evoluir em **Python, SQL e Power BI**  
-✔️ Contribuir em projetos **open source**  
-✔️ Impactar positivamente através da tecnologia  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-</p>
-
-✨ *"Cada linha de código é um passo rumo ao futuro."* ✨/>
-<img 
-    alt="TailwindCSS" 
-    title="TailwindCSS" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    alt="Power BI" 
-    title="Power BI" 
-    width="30px" 
-    src="https://img.icons8.com/color/48/power-bi.png" 
-/>
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmateus-web&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
----
-
-## 🌐 Contato
- 
-- 💻 [GitHub](https://github.com/Lucasmateus-web)  
-- 📧 Email: lucasmateus.dasilva@outlook.com
-
----
-
-
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmateus-web&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+<h3 align="center">🚀 Let's code! 🚀</h3>
