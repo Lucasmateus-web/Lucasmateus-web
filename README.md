@@ -34,21 +34,78 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.ve<!-- Banner animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">👨‍💻 Lucas Mateus</h1>
+<h3 align="center">Desenvolvedor Front-end | Estudante de Engenharia de Software</h3>
+
+---
+
+## 🌎 Sobre mim  
+📍 Recife - PE  
+🎓 21 anos, cursando **Engenharia de Software (Wyden - UNIFBV)**  
+⚡ Apaixonado por **tecnologia, programação e inovação**  
+📌 Compartilho meus projetos no **[LinkedIn](https://www.linkedin.com/in/lucas-mateus-b8abaa30b/)** e no **GitHub**  
+
+---
+
+## 🚀 Linguagens e Tecnologias  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+</p>
+
+---
+
+## 📈 Skills com Progresso  
+
+| Tecnologia  | Ícone |
+|-------------|-------|
+| **HTML**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> |
+| **CSS**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> |
+| **React**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> |
+| **TailwindCSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"/> |
+| **Python**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> |
+| **SQL**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> |
+| **Power BI** | <img src="https://img.icons8.com/color/48/power-bi.png" width="30"/> |
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## ⚡ Minhas metas  
-✔️ Evoluir cada vez mais no desenvolvimento web  
-✔️ Contribuir com projetos open-source  
-✔️ Criar soluções que impactem positivamente a vida das pessoas  
+✔️ Melhorar minhas skills em **Front-end e Back-end**  
+✔️ Contribuir em **projetos open-source**  
+✔️ Criar sistemas e soluções que ajudem pessoas  
 
 ---
 
-<!-- Rodapé -->
+<!-- Rodapé animado -->
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
 </p>
 
-<h3 align="center">🚀 Let's code! 🚀</h3>
+<h3 align="center">🚀 Let's Code 🚀</h3>
