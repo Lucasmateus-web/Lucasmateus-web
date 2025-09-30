@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header"/>
 
-## Lucas Mateus - Desenvolvedor Front-End 🟢🔵💻
+## Lucas Mateus - Desenvolvedor  🟢🔵💻
 
-Desenvolvedor Front-End apaixonado por criar interfaces interativas e responsivas. Tenho experiência em **React**, **NodeJS**, **Tailwind CSS** e várias outras ferramentas de front-end e back-end. Gosto de trabalhar com tecnologias modernas, como **Python** e **SQL**, além de integrar soluções de visualização de dados com **Power BI**. Busco sempre entregar soluções eficientes e escaláveis.
+Desenvolvedor apaixonado por criar interfaces interativas e responsivas. Tenho experiência em **React**, **NodeJS**, **Tailwind CSS** e várias outras ferramentas de front-end e back-end. Gosto de trabalhar com tecnologias modernas, como **Python** e **SQL**, além de integrar soluções de visualização de dados com **Power BI**. Busco sempre entregar soluções eficientes e escaláveis.
 
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/NodeJS-green"/>
