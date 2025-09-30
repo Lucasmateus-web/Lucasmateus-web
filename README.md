@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Lucas Mateus
 
-![Lucas Coding GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+![Lucas Coding GIF](https://media.giphy.com/media/5xtDarjI1fZVVYJkpxG/giphy.gif)
 
 ### 🎯 Sobre Mim
-Sou Desenvolvedor Front-end | Estudante de Engenharia de Software  
-Natural de Recife (PE), 20 anos | Formado em Eletrotécnica pelo Ensino Público  
-Apaixonado por tecnologia, sempre aprendendo e compartilhando meus projetos 🚀  
+Sou **Desenvolvedor Front-end** | Estudante de **Engenharia de Software**  
+Natural de **Recife (PE)**, 20 anos | Formado em **Eletrotécnica pelo Ensino Público**  
+Apaixonado por **tecnologia**, sempre aprendendo e compartilhando meus projetos 🚀  
 
 ---
 
@@ -39,13 +39,19 @@ Apaixonado por tecnologia, sempre aprendendo e compartilhando meus projetos 🚀
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Projetos Interativos & Inovadores
 
-| Projeto | Tecnologias | Link |
-|---------|------------|------|
-| Portfolio Pessoal | HTML, CSS, JS, React | [Ver Projeto](https://github.com/seu-usuario/portfolio) |
-| App Controle | React, TailwindCSS | [Ver Projeto](https://github.com/seu-usuario/app-controle) |
-| Projeto Extra | JS, Bootstrap | [Ver Projeto](https://github.com/seu-usuario/projeto-extra) |
+✨ **Projeto 1: Portfolio Pessoal**  
+**Tecnologias**: HTML, CSS, JS, React  
+[**Ver Projeto**](https://github.com/seu-usuario/portfolio)
+
+💻 **Projeto 2: App Controle**  
+**Tecnologias**: React, TailwindCSS  
+[**Ver Projeto**](https://github.com/seu-usuario/app-controle)
+
+🚀 **Projeto 3: App de Tarefas Dinâmicas**  
+**Tecnologias**: JS, Bootstrap  
+[**Ver Projeto**](https://github.com/seu-usuario/projeto-extra)
 
 ---
 
@@ -66,3 +72,91 @@ Apaixonado por tecnologia, sempre aprendendo e compartilhando meus projetos 🚀
 
 ![Lucas Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+---
+
+### 💥 Adicionando Interatividade e Animações
+
+#### 1. **Animação de Hover nos Cards**
+css
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+body {
+  background-color: #121212;
+  color: white;
+}
+
+button {
+  background-color: #6200ea;
+  color: white;
+}
+body {
+  background-color: #121212;
+  color: white;
+}
+
+button {
+  background-color: #6200ea;
+  color: white;
+}
+
+a {
+  transition: transform 0.3s ease;
+}
+a:hover {
+  transform: scale(1.2);
+}
+
+<p class="counter">0</p>
+
+<script>
+let count = 0;
+const counterElement = document.querySelector('.counter');
+setInterval(() => {
+  if (count < 100) {
+    count++;
+    counterElement.textContent = count;
+  }
+}, 50);
+</script>
+.parallax {
+  background-image: url('background.jpg');
+  height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+button:hover {
+  transform: scale(1.1);
+  background-color: #00b894;
+  transition: all 0.3s ease-in-out;
+}
+<!-- Modal interativo -->
+<button id="myBtn">Open Modal</button>
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
+</div>
+<script>
+var modal = document.getElementById("myModal");
+var btn = document.getElementById("myBtn");
+var span = document.getElementsByClassName("close")[0];
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+span.onclick = function() {
+  modal.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+
