@@ -11,13 +11,13 @@ Apaixonado por **tecnologia**, sempre aprendendo e compartilhando meus projetos 
 
 ### 💻 Tecnologias & Ferramentas
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" width="40" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" width="50" />
 </div>
 
 ---
@@ -39,32 +39,21 @@ Apaixonado por **tecnologia**, sempre aprendendo e compartilhando meus projetos 
 
 ---
 
-### 📂 Projetos Interativos & Inovadores
+### 💬 Motivação
 
-✨ **Projeto 1: Portfolio Pessoal**  
-**Tecnologias**: HTML, CSS, JS, React  
-[**Ver Projeto**](https://github.com/seu-usuario/portfolio)
-
-💻 **Projeto 2: App Controle**  
-**Tecnologias**: React, TailwindCSS  
-[**Ver Projeto**](https://github.com/seu-usuario/app-controle)
-
-🚀 **Projeto 3: App de Tarefas Dinâmicas**  
-**Tecnologias**: JS, Bootstrap  
-[**Ver Projeto**](https://github.com/seu-usuario/projeto-extra)
+_"A programação é mais do que apenas escrever código, é construir soluções e transformar ideias em realidade."_  
+**- Lucas Mateus**
 
 ---
 
-### 📫 Contato
+### 📂 Linguagens Mais Usadas
 
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://www.linkedin.com/in/lucas-mateus-b8abaa30b/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  </a>
-</div>
+💻 **Linguagens de Programação:**
+- **JavaScript** - A base do meu desenvolvimento web.  
+- **HTML5 & CSS3** - As fundações para criar interfaces dinâmicas e responsivas.  
+- **React** - Meu framework preferido para construir UIs interativas e escaláveis.  
+- **TailwindCSS** - Flexibilidade e produtividade para criar designs modernos e clean.  
+- **Bootstrap** - Para projetos rápidos, flexíveis e bonitos.
 
 ---
 
@@ -75,88 +64,33 @@ Apaixonado por **tecnologia**, sempre aprendendo e compartilhando meus projetos 
 
 ---
 
-### 💥 Adicionando Interatividade e Animações
+### 📫 Contato
 
-#### 1. **Animação de Hover nos Cards**
-css
-.card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
-  transition: all 0.3s ease;
-}
-body {
-  background-color: #121212;
-  color: white;
-}
-
-button {
-  background-color: #6200ea;
-  color: white;
-}
-body {
-  background-color: #121212;
-  color: white;
-}
-
-button {
-  background-color: #6200ea;
-  color: white;
-}
-
-a {
-  transition: transform 0.3s ease;
-}
-a:hover {
-  transform: scale(1.2);
-}
-
-<p class="counter">0</p>
-
-<script>
-let count = 0;
-const counterElement = document.querySelector('.counter');
-setInterval(() => {
-  if (count < 100) {
-    count++;
-    counterElement.textContent = count;
-  }
-}, 50);
-</script>
-.parallax {
-  background-image: url('background.jpg');
-  height: 100vh;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
-button:hover {
-  transform: scale(1.1);
-  background-color: #00b894;
-  transition: all 0.3s ease-in-out;
-}
-<!-- Modal interativo -->
-<button id="myBtn">Open Modal</button>
-<div id="myModal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
-  </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-mateus-b8abaa30b/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
 </div>
-<script>
-var modal = document.getElementById("myModal");
-var btn = document.getElementById("myBtn");
-var span = document.getElementsByClassName("close")[0];
-btn.onclick = function() {
-  modal.style.display = "block";
-}
-span.onclick = function() {
-  modal.style.display = "none";
-}
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-</script>
 
+---
+
+### 💡 Dicas para um Desenvolvedor
+- **Nunca pare de aprender.** O mercado de tecnologia está em constante evolução.  
+- **Compartilhe seus conhecimentos.** O ensino é a melhor forma de reforçar o aprendizado.  
+- **Programe com paixão e propósito.** O código que você escreve reflete quem você é.
+
+---
+
+### 💥 Projeção de Futuro
+Meu objetivo é sempre melhorar minhas habilidades técnicas e agregar valor aos projetos nos quais estou envolvido, trazendo inovação e soluções criativas que impactem positivamente a vida das pessoas.
+
+---
+
+### 🌱 O que estou aprendendo agora:
+- **Node.js** e **Express.js** para back-end.  
+- **Python** para scripts e automações.  
+- **GraphQL** para otimizar queries e interações com APIs.
 
