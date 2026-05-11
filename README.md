@@ -6,7 +6,7 @@
 
 ### Fullstack Developer • Front-end • UI/UX • Automação
 
-Transformando ideias em **sites, sistemas, interfaces modernas e automações inteligentes**.
+Gosto de transformar ideias em soluções digitais reais, criando **sites, sistemas, interfaces modernas e automações** que sejam bonitas, funcionais e úteis no dia a dia.
 
 </div>
 
@@ -14,10 +14,13 @@ Transformando ideias em **sites, sistemas, interfaces modernas e automações in
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor focado em criar experiências digitais modernas, responsivas e funcionais.  
-Tenho experiência com **Front-end, Back-end, UI/UX, Python, SQL, Power BI, automações e dashboards**.
+Sou desenvolvedor em evolução constante, com foco em criar experiências digitais modernas, responsivas e bem estruturadas.
 
-Também sou criador da **FluxCode**, marca voltada para desenvolvimento web, sistemas e soluções digitais.
+Tenho interesse em unir **tecnologia, design e praticidade**, desenvolvendo soluções que não sejam apenas visualmente agradáveis, mas que também resolvam problemas reais.
+
+Atuo com **Front-end, Back-end, UI/UX, Python, SQL, Power BI, automações e dashboards**, sempre buscando melhorar a performance, a organização e a experiência do usuário.
+
+Também sou criador da **FluxCode**, uma marca voltada para desenvolvimento web, sistemas, interfaces modernas e soluções digitais inteligentes.
 
 ---
 
@@ -44,11 +47,25 @@ Também sou criador da **FluxCode**, marca voltada para desenvolvimento web, sis
 
 ## 📌 Projetos
 
-- **Dashboard de Fornecedores** — IQF, homologação, gráficos e filtros inteligentes.  
-- **Bot de Avaliação de Fornecedores** — análises, relatórios e ranking automatizado.  
-- **Fluxy App** — rede social moderna com foco em UI/UX e experiência mobile.  
-- **Portfólio Profissional** — apresentação de projetos, skills e serviços digitais.  
-- **FluxCode** — marca digital para sites, sistemas, interfaces e automações.
+### Dashboard de Fornecedores
+
+Projeto criado para facilitar a análise de fornecedores, reunindo informações de IQF, homologação, gráficos e filtros em uma interface mais clara e prática.
+
+### Bot de Avaliação de Fornecedores
+
+Automação desenvolvida para tornar o processo de avaliação mais rápido e organizado, com análises, relatórios e ranking de fornecedores.
+
+### Fluxy App
+
+Projeto de rede social com foco em experiência visual, perfil de usuário, privacidade, stories e uma navegação mais moderna para dispositivos móveis.
+
+### Portfólio Profissional
+
+Meu espaço digital para apresentar habilidades, projetos, experiências e serviços de forma mais clara, moderna e profissional.
+
+### FluxCode
+
+Marca criada para representar meus serviços de desenvolvimento web, UI/UX, automação e criação de soluções digitais para pessoas e empresas.
 
 ---
 
@@ -68,7 +85,9 @@ Também sou criador da **FluxCode**, marca voltada para desenvolvimento web, sis
 
 **Código, design e automação em fluxo.**
 
-A FluxCode cria soluções digitais modernas para profissionais e empresas:
+A **FluxCode** nasceu com a ideia de criar soluções digitais que unam visual moderno, tecnologia e funcionalidade.
+
+O objetivo é ajudar profissionais, marcas e empresas a terem uma presença digital mais forte, com projetos bem construídos, organizados e pensados para gerar resultado.
 
 `Sites` • `Sistemas Web` • `UI/UX` • `Dashboards` • `Automação` • `APIs`
 
@@ -84,6 +103,17 @@ A FluxCode cria soluções digitais modernas para profissionais e empresas:
 
 </div>
 
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333EA,50:2563EB,100:0B0F1A" />
+
+### © 2026 Lucas Mateus / FluxCode
+
+**Criando experiências digitais com tecnologia, design e propósito.**
+
+</div>
 ---
 
 <div align="center">
