@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B0F1A,45:2563EB,100:9333EA&text=Lucas%20Mateus&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20%7C%20FluxCode&descAlignY=58&descSize=17" />
 
-# Lucas Mateus
-
-### Fullstack Developer • Front-end • UI/UX • Automação
-
 Gosto de transformar ideias em soluções digitais reais, criando **sites, sistemas, interfaces modernas e automações** que sejam bonitas, funcionais e úteis no dia a dia.
 
 </div>
@@ -83,19 +79,6 @@ O objetivo é ajudar profissionais, marcas e empresas a terem uma presença digi
 
 `Sites` • `Sistemas Web` • `UI/UX` • `Dashboards` • `Automação` • `APIs`
 
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-0B0F1A?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasmateus.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasmateus-web)
-[![Email](https://img.shields.io/badge/E--mail-0B0F1A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lucasmateus.dasilva@outlook.com)
-
-</div>
-
----
 
 <div align="center">
 
