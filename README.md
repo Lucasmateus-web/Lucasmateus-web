@@ -71,11 +71,6 @@ A **FluxCode** nasceu com a ideia de criar soluções digitais que unam visual m
 
 O objetivo é ajudar profissionais, marcas e empresas a terem uma presença digital mais forte, com projetos bem construídos, organizados e pensados para gerar resultado.
 
-<div align="center">
-
-`Sites` • `Sistemas Web` • `UI/UX` • `Dashboards` • `Automação` • `APIs`
-
-</div>
 
 ---
 
