@@ -60,9 +60,6 @@ Também sou criador da **FluxCode**, uma marca voltada para desenvolvimento web,
   <img src="https://skillicons.dev/icons?i=instagram" width="52" alt="Instagram" />
 </a>
 
-<br><br>
-
-**Portfólio • GitHub • E-mail • LinkedIn • Instagram**
 
 </div>
 
