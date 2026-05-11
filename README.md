@@ -45,42 +45,6 @@ Também sou criador da **FluxCode**, uma marca voltada para desenvolvimento web,
 
 ---
 
-## 📌 Projetos
-
-### Dashboard de Fornecedores
-
-Projeto criado para facilitar a análise de fornecedores, reunindo informações de IQF, homologação, gráficos e filtros em uma interface mais clara e prática.
-
-### Bot de Avaliação de Fornecedores
-
-Automação desenvolvida para tornar o processo de avaliação mais rápido e organizado, com análises, relatórios e ranking de fornecedores.
-
-### Fluxy App
-
-Projeto de rede social com foco em experiência visual, perfil de usuário, privacidade, stories e uma navegação mais moderna para dispositivos móveis.
-
-### Portfólio Profissional
-
-Meu espaço digital para apresentar habilidades, projetos, experiências e serviços de forma mais clara, moderna e profissional.
-
-### FluxCode
-
-Marca criada para representar meus serviços de desenvolvimento web, UI/UX, automação e criação de soluções digitais para pessoas e empresas.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasmateus-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=8B5CF6&icon_color=38BDF8&text_color=FFFFFF" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmateus-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=8B5CF6&text_color=FFFFFF" />
-
-</div>
-
----
-
 ## 🌐 FluxCode
 
 **Código, design e automação em fluxo.**
