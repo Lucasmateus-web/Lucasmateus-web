@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B0F1A,45:2563EB,100:9333EA&text=Lucas%20Mateus&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20%7C%20FluxCode&descAlignY=58&descSize=17" />
 
-# 👨‍💻 Lucas Mateus
+# Lucas Mateus
 
 ### Fullstack Developer • Front-end • UI/UX • Automação
 
@@ -24,26 +24,54 @@ Também sou criador da **FluxCode**, uma marca voltada para desenvolvimento web,
 
 ---
 
-## 🛠️ Tecnologias
-
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0B0F1A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0B0F1A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0F1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0F1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0B0F1A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0B0F1A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0B0F1A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-0B0F1A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0B0F1A?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0B0F1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Power BI](https://img.shields.io/badge/Power%20BI-0B0F1A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Figma](https://img.shields.io/badge/Figma-0B0F1A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+## 💠 Tecnologias & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,mysql,postgres,figma,git,github&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-0B0F1A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0B0F1A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0B0F1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0B0F1A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/React-0B0F1A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0B0F1A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tailwind-0B0F1A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Node.js-0B0F1A?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Python-0B0F1A?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Java-0B0F1A?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/SQL-0B0F1A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B0F1A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Power%20BI-0B0F1A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Figma-0B0F1A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </div>
 
 ---
+
+<div align="center">
+
+## 📫 Contato & Redes
+
+<a href="https://lucasmateus.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F1A&color=2563EB" />
+</a>
+<a href="https://github.com/lucasmateus-web">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F1A&color=9333EA" />
+</a>
+<a href="mailto:lucasmateus.dasilva@outlook.com">
+  <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F1A&color=2563EB" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F1A&color=0A66C2" />
+</a>
+<a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B0F1A&color=E4405F" />
+</a>
+
+</div>
 
 ## 🌐 FluxCode
 
