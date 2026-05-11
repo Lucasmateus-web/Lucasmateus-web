@@ -26,11 +26,9 @@ Também sou criador da **FluxCode**, uma marca voltada para desenvolvimento web,
 
 ## 💠 Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,mysql,postgres,figma,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mysql,postgres,figma,git,github&perline=8" />
 
 <br><br>
-
-**Front-end • Back-end • Banco de Dados • UI/UX • Automação • Dashboards**
 
 </div>
 
